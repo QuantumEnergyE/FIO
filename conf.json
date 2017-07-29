@@ -1,0 +1,13 @@
+{
+  "filename":["/dev/mapper/mpathal"],
+  "bs":["1K", "4K", "16K", "32K", "128K", "512K", "1M"],
+  "rw":["read", "write", "rw", "randread", "randwrite", "randrw"],
+  "direct":["1"],
+  "size":["50G"],
+  "ioengine":["psync"],
+  "iodepth":["32"],
+  "rwmixread":["80"],
+  "numjobs":["32"],
+  "runtime":["300"],
+  "name": ["fio_test"]
+}
