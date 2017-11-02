@@ -5,7 +5,7 @@
   "direct":["1"],
   "size":["50G"],
   "ioengine":["psync"],
-  "iodepth":["32"],
+  "iodepth":["64"],
   "rwmixread":["80"],
   "numjobs":["32"],
   "runtime":["300"],
